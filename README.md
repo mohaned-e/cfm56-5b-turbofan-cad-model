@@ -4,14 +4,16 @@ Full SolidWorks model of a high-bypass turbofan, built proportionally around the
 
 ## Overview
 
-Built over roughly 48–72 hours as a single multi-body part with 176 features, modelling all major engine sections in sequence:
+Built over roughly 48–72 hours as a single multi-body part with 176 features, modelling a complete alternating rotor/stator axial architecture:
 
-- 22-blade fan
-- Low-pressure compressor (LPC)
-- High-pressure compressor (HPC)
-- Annular combustor
-- High-pressure turbine (HPT)
-- 4-stage low-pressure turbine (LPT)
+| Section    | Rotor blade stages | Stator vane stages |
+|------------|--------------------|---------------------|
+| Fan        | 22 blades          | —                   |
+| LPC        | 3                  | 3                   |
+| HPC        | 6                  | 7                   |
+| Combustor  | —                  | —                   |
+| HPT        | 1                  | 1                   |
+| LPT        | 4                  | 4                   |
 
 ## Key technical features
 
