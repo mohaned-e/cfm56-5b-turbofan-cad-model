@@ -36,10 +36,15 @@ This is a static geometric representation, not a functional mechanism. Overall p
 
 ```
 /solidworks/
-  CFM56_5B_Turbofan.SLDPRT — full multi-body part
+  Engine Project.SLDPRT — full multi-body part
 /images/
-  assembled_view_fan_casing.png
-  internal_section_full_stage_sequence.png
+  Turbofan HPC close up.webp
+  Turbofan HPT&LPT close up.webp
+  Turbofan LPC close up.webp
+  Turbofan inner casing.png
+  Turbofan internal view.png
+  Turbofan outer casing.png
+  Turbofan section cut.png
 ```
 
 ## Author
