@@ -8,7 +8,7 @@ Built over roughly 48-72 hours as a single multi-body part with 176 features, mo
 
 | Section | Rotor blade stages | Stator vane stages |
 |---|---|---|
-| Fan | 36 blades (matches real engine) | — |
+| Fan | 36 blades | — |
 | LPC | 3 (real engine: 4) | 3 |
 | HPC | 6 (real engine: 9) | 7 |
 | Combustor | — | — |
