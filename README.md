@@ -49,4 +49,4 @@ This is a static geometric representation, not a functional mechanism. Overall p
 
 ## Author
 
-Mohaned Elkurdi — MEng Aerospace Engineering, University of Manchester
+Mohaned Elkurdi — Aerospace Engineering, University of Manchester
